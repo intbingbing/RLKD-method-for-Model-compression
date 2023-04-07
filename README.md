@@ -5,5 +5,5 @@
 
 ## How to run?
 ```bash
-python /home/zm/hubingbing/segmentation/open_access/main.py --datapath kaggle_3m_path --resume_path best_model_path
+python main.py --datapath kaggle_3m_path --resume_path best_model_path
 ```
